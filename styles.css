@@ -20,3 +20,99 @@ header{
 }
 nav{
 grid-area: nav;}
+
+main{
+    position: absolute;
+    top: 20%;
+    left:15%;
+    right: 15%;
+    color: rgb(255, 255, 255);
+    grid-area: main;
+}
+main h1{
+    color: white;
+    font-size: 50px;
+
+}
+main p{
+    color: white;
+    font-size: 25px;
+}
+
+
+aside{background-color: rgb(255, 255, 255)
+    transparent;
+    
+    
+grid-area: aside;}
+
+footer{
+    
+    color: rgb(241, 12, 12);
+    grid-area: footer;
+    font-size: 20px;
+    display: inline;
+   
+}
+
+li a{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    text-size-adjust: 105px;
+    text-decoration: none;
+    padding: 20px 20px;
+    text-align: center;
+
+
+    
+    
+}
+ul{
+  list-style: none;
+  width: 100px;
+  
+  
+}
+
+
+body {
+  background-image: url('images/Background2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+nav{font-size: 20px;
+font-weight:bold;
+text-transform: capitalize;}
+
+.table{
+    float: left;
+    width: 40%;
+    padding: 10px;
+    height: 200px;
+}
+
+.image{
+width: 300px;
+float: left;
+display: inline block;}
+
+
+.super{
+width: 250px;
+float: right;
+display: inline block;
+
+}
+form{
+    display: inline-block;
+    background-color:#333;
+
+}
+input{
+    font-size: 100%;
+    border: solid 1px;
+    
+    
+}
