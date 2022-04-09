@@ -111,7 +111,7 @@ text-transform: capitalize;}
 }
 
 .image{
-width: 300px;
+width: 100px;
 float: left;
 display: inline block;}
 
@@ -136,9 +136,14 @@ form{
 }
 input{
     font-size: 100%;
-    border: solid 1px;
-    
-    
-    
-    
+    border: solid 1px;    
+}
+
+.siterep{
+    font-size: 23px;
+}
+
+img{
+    width: auto;
+    height: 230px;
 }

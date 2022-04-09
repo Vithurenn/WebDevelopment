@@ -110,23 +110,15 @@ text-transform: capitalize;}
     height: 200px;
 }
 
-.image{
-width: 300px;
-float: left;
-display: inline block;}
+
 
 img {
-    border-radius: 4px;
-    padding: 2px;
+    border-radius: 2px;
+    padding: 1px;
     width: 400px;
-    height: 400spx;
+    height: 300px;
   }
-.super{
-width: 10%;
-float: right;
-display: inline block;
 
-}
 form{
     display: inline-block;
     background-color:#333;
@@ -146,7 +138,7 @@ input{
 main{
     display:grid;
     grid-template-columns: 35% 35% 35%;
-    padding: 0.5em;
+    padding: 2em;
     grid-column-gap: 2em;
 }
 
