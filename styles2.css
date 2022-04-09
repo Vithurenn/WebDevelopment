@@ -142,12 +142,3 @@ input{
     
     
 }
-
-main{
-    display:grid;
-    grid-template-columns: 35% 35% 35%;
-    padding: 0.5em;
-    grid-column-gap: 2em;
-}
-
-
