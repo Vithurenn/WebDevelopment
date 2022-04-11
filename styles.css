@@ -31,7 +31,7 @@ main{
 }
 main h1{
     color: white;
-    font-size: 50px;
+    font-size: 30px;
 
 }
 .Introduction{
@@ -42,6 +42,7 @@ main h1{
     
     
 }
+
 .Inputlocate{
     margin: 1%;
     margin-top: 40%;
