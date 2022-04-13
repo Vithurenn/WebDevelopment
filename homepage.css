@@ -1,30 +1,16 @@
 
-
-body{
-    display: grid;
-    grid-template-columns: 50% 50%;
-    grid-template-areas: "nav" "main";
-    font-size: 150%;
-    
-
-   
-}
-
-
-
-
-
-
 @media screen and (max-width:500px){
 
     .Introduction{
-     font-size:1em ;
+     margin-top:70%;
+     margin-left: -100;
+     margin-right: -100%;
     }
 
     .Title{
-        margin-top: -110%;
-        margin-right:-190%;
-        margin-left: 90%;
+        margin-top: -80%;
+        margin-right:-160%;
+        margin-left: 120%;
         
     }
 }

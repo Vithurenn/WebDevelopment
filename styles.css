@@ -10,7 +10,7 @@ body{
     grid-template-columns: hidden;
     grid-template-rows: hidden;
     grid-template-areas: "header header header"
-                         "nav main aside"
+                         "nav main main"
                          "footer footer footer";}
 
 header{
