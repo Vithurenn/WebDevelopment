@@ -1,0 +1,12 @@
+@media screen and (max-width:500px){
+
+    .Inputlocate{
+        margin-top: 100%;
+        margin-left: -40%;
+    }
+    .contactphrase{
+        margin-top: -70%;
+        margin-left: 70%;
+        margin-right: -320%;
+    }
+}
