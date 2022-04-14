@@ -1,12 +1,15 @@
-@media screen and (max-width:500px){
+@media screen and (max-width:500%) {
 
-    .Inputlocate{
-        margin-top: 100%;
-        margin-left: -40%;
+    .Inputlocate {
+        margin: 1%;
+        margin-top: 141%;
+        margin-left: -16%;
+        font-size: 100%;
     }
-    .contactphrase{
+
+    .contactphrase {
         margin-top: -70%;
         margin-left: 70%;
-        margin-right: -320%;
+        margin-right: -10%;
     }
 }

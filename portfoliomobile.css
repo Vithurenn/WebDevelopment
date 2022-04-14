@@ -1,28 +1,28 @@
 @media screen and (max-width:500px){
 .table1{
     
-    margin-top: -80%;
-    margin-left: 80%;
+    margin-top: -3%;
+    margin-left: 33%;
 }
 .table2{
-    margin-top:220%;
-    margin-left: -40%;
+    margin-top: 105%;
+    margin-left: -78%;
 }
 .table3{
-    margin-top: 490%;
-    margin-left: -170%;
+    margin-top: 211%;
+    margin-left: -191%;
 }
 .table4{
-    margin-top: -30%;
-    margin-left: 100%;
+    margin-top: -11%;
+    margin-left: 31%;
 }
 .table5{
-    margin-top: 240%;
-    margin-left: -30%;
+    margin-top: 93%;
+    margin-left: -82%;
 }
 .table6{
-    margin-top: 520%;
-    margin-left: -160%;
+    margin-top: 195%;
+    margin-left: -193%;
 }
 
 img {
@@ -30,4 +30,8 @@ img {
     height: 190px;
   }
 }
+
+
+
+
 
