@@ -8,8 +8,6 @@ body {
     display: grid;
     grid-template-columns: 20% 70% 20%;
     grid-template-rows: auto;
-    grid-template-columns: hidden;
-    grid-template-rows: hidden;
     grid-template-areas: "header header header"
                          "nav main main"
                          "footer footer footer";
@@ -24,29 +22,21 @@ header {
 nav {
     grid-area: nav;
 }
-
-/* main {
-    position: absolute;
-    top: 20%;
-    left: 15%;
-    right: 15%;
-    color: rgb(255, 255, 255);
-    grid-area: main;
-
-    margin: 1%;
-    margin-top: 40%;
-    margin-left: -210%;
-    font-size: 180%;
-} */
+.blog1{
+    font-size: 20px;
+}
+.earlystage{
+    font-size: 20px;
+}
+.blog3{
+    font-size: 20px;
+}
 
 main h1 {
     color: white;
     font-size: 30px;
 
 }
-
-.Introduction {}
-
 .Inputlocate {
     margin: 1%;
     margin-top: 40%;
@@ -58,12 +48,12 @@ main h1 {
 
 main p {
     color: white;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 
 aside {
-    background-color: rgb(255, 255, 255) transparent;
+    background-color: rgb(182, 136, 136);
     grid-area: aside;
 }
 
@@ -78,7 +68,6 @@ footer {
 li a {
     display: inline-block;
     color: rgb(255, 255, 255);
-    text-size-adjust: 105px;
     text-decoration: none;
     padding: 20px 20px;
     text-align: center;
@@ -143,4 +132,17 @@ body:not(.no-grid) main {
     grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: 2em;
     grid-area: main;
+}
+
+h2{
+    color: white;
+    
+}
+h3{
+    color: white;
+    
+}
+h4{
+    color: white;
+    
 }
